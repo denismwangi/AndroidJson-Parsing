@@ -30,7 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
     ListView listView;
     List<Saccos> saccos;
-    private static String API_URL = "http://api.sakoapp.co.ke/api/allsaccos";
+    private static String API_URL = "http://";
 
    // Adapter adapter;
 
